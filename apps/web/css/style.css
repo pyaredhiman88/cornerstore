@@ -358,3 +358,9 @@ footer {
         gap: 2rem;
     }
 }
+.sale-banner {
+    padding: 12px;
+    text-align: center;
+    background-color: #e3f1ea;
+}
+
